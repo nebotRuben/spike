@@ -1,0 +1,18 @@
+{
+  "standard" : {
+    "stnumber" : "1",
+    "addresst" : "Hauptstraße",
+    "postal" : {},
+    "region" : "DE",
+    "latt" : "50.6552",
+    "longt" : "7.57105",
+    "prov" : "DE",
+    "city" : "Berzhausen",
+    "countryname" : "Germany",
+    "confidence" : "0.7"
+  },
+  "longt" : "7.57105",
+  "alt" : {},
+  "elevation" : {},
+  "latt" : "50.65520"
+}
